@@ -42,3 +42,21 @@ https://b4f477fa-bac0-495b-b648-01a301155cab.us-west-1-0.aws.cloud.qdrant.io:633
 
 ![alt text](Semantic_Splitter.png)
 
+
+# pkg required
+langchain_community
+qdrant-client
+python-dotenv
+ipykernel
+langchain_openai
+langchain
+beautifulsoup4 (not required)
+langchain_qdrant
+transformers (not required)
+sentence-transformers (not required)
+datasets (not required)
+pypdf 
+langchain_experimental
+langchain-ai21 (not required)
+PyPDF2
+
