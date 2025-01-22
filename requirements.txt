@@ -10,3 +10,6 @@ transformers
 sentence-transformers
 datasets
 pypdf
+langchain_experimental
+langchain-ai21
+PyPDF2
