@@ -1,0 +1,12 @@
+langchain_community
+qdrant-client
+python-dotenv
+ipykernel
+langchain_openai
+langchain
+beautifulsoup4
+langchain_qdrant
+transformers
+sentence-transformers
+datasets
+pypdf
